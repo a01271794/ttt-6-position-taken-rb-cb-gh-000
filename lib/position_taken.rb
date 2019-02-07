@@ -2,5 +2,5 @@
 def position_taken(input)
   if input == "" || input == " "
     puts
-  end  
+  end
 end
